@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Form from './components/Form'
+import FormData from './components/FormData'
 
 ReactDOM.render(
-  <Form />,
+  <FormData />,
   document.getElementById('root')
 );
